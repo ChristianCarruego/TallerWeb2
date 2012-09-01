@@ -11,3 +11,7 @@ proyecto.
 git branch y git checkout para el manejo de ramas de desarrollo.
 
 git remote, git push y git pull  para establecer el repositorio remoto y para subiri y bajar copias desde ahi.
+
+git clone para bajar repositorio completo
+
+git pull para subir archivos actualizados
